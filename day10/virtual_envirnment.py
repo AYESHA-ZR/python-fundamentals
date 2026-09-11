@@ -1,2 +1,0 @@
-# virtual enevironment practice
-
